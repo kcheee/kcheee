@@ -2,7 +2,7 @@
 ![kcheee's gitHub stats](https://github-readme-stats.vercel.app/api?username=kcheee&show_icons=true&theme=radical)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcheee)](https://solved.ac/kcheee/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgml1101)](https://solved.ac/cksgml1101/)
 
 
 <p align="right">
