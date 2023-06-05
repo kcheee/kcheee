@@ -10,4 +10,4 @@
 </p>
 
 블로그  
-[링크]: https://kcheee.github.io/ “블로그”
+[링크]: https://kcheee.github.io/
