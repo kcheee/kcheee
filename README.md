@@ -2,8 +2,9 @@
 
 #### Hi, I'm chan hee kang!
 #### I'm looking for a job as an Unity Client!
+<br>
 
-#### 🔹 portfolio Blog 👉 추후 작성   
+#### 🔹 portfolio Blog 👉 [추후 작성]()  
 #### 🔹 Blog 👉 [Link](https://kcheee.github.io) 
 <br>
 
