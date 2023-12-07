@@ -1,5 +1,3 @@
-<div align="center">   
-  
 ## 👋 Introduction
 
 #### Hi, I'm chan hee kang!
