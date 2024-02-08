@@ -5,7 +5,7 @@
 <br>
 
 ## 🔗 Website
-#### 🔹 portfolio 👉 [추후 작성]()  
+#### 🔹 portfolio 👉 [Link](https://www.canva.com/design/DAF2kbiNWoU/q02I7OxAKLa1BhVBti5gKA/view?utm_content=DAF2kbiNWoU&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 #### 🔹 Blog 👉 [Link](https://kcheee.github.io) 
 <br>
 
