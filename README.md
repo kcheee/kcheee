@@ -23,10 +23,10 @@ FIGMA, FireBase
 
 <br>
 
-## 📃 Unity_Project
+## 📃 Project
 <details>
 <summary>
-Project
+Unity_Project
 </summary>
   
 |Project Name|Category|Tech Stack|Development|Team|   Period   |Link|
