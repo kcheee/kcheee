@@ -24,12 +24,8 @@
 <br>
 
 ## 📃 Project
-<details>
-<summary>
-Unity_Project
-</summary>
 
-   
+  
 |Project Name|Category|Tech Stack|Development|Team|   Period   |Link|Award|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:------:|
 |EduVerse|Mobile Education Platform|Unity, C#, WebRTC, Firebase, Json|WebRTC, PDFViewer, Http 통신, Json, FirebaseDB & Parsing|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 12 ~ 23. 12. 05<p></p>(54일)	|👇 [Repo](https://github.com/EdeWiseCreators)|과학기술정보통신부<p></p>**장관상**
@@ -40,7 +36,7 @@ Unity_Project
 |VR-BaseBall|VR BaseBall Game|Unity, C#, C, Oculus, Mbed, Thread|AHRS Data Parsing, Bat 위치에너지에 따른 운동에너지, Serial Port를 통해 데이터 통신 구성 및 멀티스레딩을 통한 실시간 데이터 처리|![Team](https://img.shields.io/badge/Team-red)| 22. 08. 08 ~ 22. 12. 16	|👉 [Repo](https://github.com/kcheee/VR-BaseBall-Game)|CapStone Design <p></p> **장려상**
 <br>
 
-</details>
+
 
 
 
