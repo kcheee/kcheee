@@ -5,7 +5,7 @@
 <br>
 
 ## 🔗 Website
-#### 🔹 portfolio 👉 [Link](https://www.canva.com/design/DAF2kbiNWoU/q02I7OxAKLa1BhVBti5gKA/view?utm_content=DAF2kbiNWoU&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
+#### 🔹 portfolio 👉 [Link](https://www.canva.com/design/DAGF2K4ZwfI/BSAvo_1RIwKTfa0keL3Oxg/edit?utm_content=DAGF2K4ZwfI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 #### 🔹 Blog 👉 [Link](https://kcheee.github.io) 
 <br>
 
